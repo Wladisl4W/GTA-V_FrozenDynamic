@@ -13,8 +13,7 @@ FrozenDynamic
 Установка:
   1. Установите Script Hook V и Script Hook V .NET в корень GTA V
   2. Скачайте LemonUI и скопируйте LemonUI.SHVDN3.dll в GTA V\scripts\
-  3. Скопируйте FrozenDynamic.dll и Newtonsoft.Json.dll в GTA V\scripts\
-  4. Папка создаётся автоматически при первом запуске (если мод сохраняет данные)
+  3. Скопируйте FrozenDynamic.dll в GTA V\scripts\
 
 В GTA V\scripts\ должно быть:
   • FrozenDynamic.dll
