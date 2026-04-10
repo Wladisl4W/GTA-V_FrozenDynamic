@@ -1,0 +1,21 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# Backup files
+*.bak
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Packages
+packages/
+*.nupkg
+
+# Windows
+Thumbs.db
+desktop.ini
